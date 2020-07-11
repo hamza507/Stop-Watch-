@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(47, 88, 202);
+    text-align: center;
+    border: 10px black;
+}
+.heading{
+    font-size:50px ;
+  
+    display: inline-block;
+    width: auto;
+    color: red;
+    height: auto;
+}
+h1{
+   color: black;
+   display: inline-block;
+   width: 120px;
+   background-color: yellow;
+   font-size:50px ;
+
+}
+.butt{
+    border-radius: 25px;
+    font-size: 30px;
+    background-color: red;
+    color: red;
+    
+}
+
+
+.butt:hover{
+ color: yellow;
+}

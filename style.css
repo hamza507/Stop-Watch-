@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+  background-color: skyblue;
+}  
+
+.heading {
+
+  font-size: 50px;
+  color: green;
+}
+h1{
+    display: inline-block;
+    width: 100px;
+    font-size: 70px;
+    color: yellow;
+}
+button{
+cursor: pointer;
+border-radius: 25px;
+font-size: 40px;
+background-color: red;
+}
+button:hover{
+ color: yellow;
+
+}
